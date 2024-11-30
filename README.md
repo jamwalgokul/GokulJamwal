@@ -45,8 +45,8 @@ I'm passionate about uncovering vulnerabilities, developing secure systems, and 
 
 ## 🚧 Projects Highlight
 - 🕵️ Custom Network Scanner Tools
-- 🔍 Vulnerability Assessment Scripts
-- 🛡️ Security Automation Frameworks
+- 🔍 Voice Tone Analysis
+- 🛡️ BlockChain Based Voting Systems
 
 ## 📚 Learning Journey
 - 🎯 Continuous Learning
