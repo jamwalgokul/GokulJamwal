@@ -55,8 +55,9 @@ I'm passionate about uncovering vulnerabilities, developing secure systems, and 
 
 ---
 
-### ✨ Quote I Live By
-> "In the world of cybersecurity, learning never stops, and curiosity is your greatest weapon." 
+### ✨ Quotes I Live By
+> "In the world of cybersecurity, learning never stops, and curiosity is your greatest weapon."
+> "Dreams are a dime a dozen, its their execution that counts" 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=green)
 
